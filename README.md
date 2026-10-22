@@ -1,16 +1,30 @@
-# rota_segura
+# 🛡️ Rota Segura
 
-A new Flutter project.
+O **Rota Segura** é um aplicativo mobile desenvolvido em Flutter focado em segurança de rotas e recursos de alerta de pânico para motoristas.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- 📍 Monitoramento de rotas e navegação segura.
+- 🚨 Botão de alerta de pânico para emergências.
+- 📱 Interface intuitiva desenvolvida para fácil uso no dia a dia.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Linguagem:** Dart
+- **Framework:** Flutter
+- **Plataformas:** Android / iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone [https://github.com/stellitaalbernaz/rota_segura.git](https://github.com/stellitaalbernaz/rota_segura.git)
+
+# Entrar na pasta do projeto
+cd rota_segura
+
+# Instalar as dependências
+flutter pub get
+
+# Executar o aplicativo
+flutter run
